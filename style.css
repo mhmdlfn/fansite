@@ -343,4 +343,9 @@ h3 {
         width: 100%;
         height: auto;
     }	
+	.video-presentation iframe {
+    	width: 50vh;
+	height: 30vh;
+    	margin: 0 auto;
+}
 }
